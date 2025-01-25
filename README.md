@@ -1,7 +1,7 @@
-# BatDongSan.com.vn Scraper
+# HCM Realestate Scraper
 
 ## Introduction
-This is a web scraping tool designed to extract real estate information from BatDongSan.com.vn. The scraper uses Selenium WebDriver with Chrome in headless mode to automatically collect property listings data including titles, prices, and locations.
+This is a web scraping tool designed to extract real estate information from realestate websites. The scraper uses Selenium WebDriver with Chrome in headless mode to automatically collect property listings data including titles, prices, and locations.
 
 ## Installation
 
@@ -43,7 +43,7 @@ python main.py
 
 The script will:
 1. Launch Chrome in headless mode
-2. Navigate to the specified BatDongSan.com.vn URL
+2. Navigate to the specified realestate URL
 3. Extract property information including:
    - Property titles
    - Prices
